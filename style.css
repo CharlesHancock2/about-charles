@@ -1,0 +1,16 @@
+body {
+    background: linear-gradient(to left, #291cb0, #9bea73);
+    text-align: center;
+}
+
+img {
+    width: 150px;
+    height: 250px;
+    border: black 2px solid;
+    margin: 5px;
+}
+
+p {
+    align-items: center;
+    justify-content: center;
+}
