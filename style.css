@@ -4,8 +4,12 @@ body {
 }
 
 img {
-    width: 150px;
+    width: 400px;
     height: 250px;
     border: black 2px solid;
     margin: 5px;
+}
+
+ol {
+    list-style-position: inside;
 }
